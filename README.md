@@ -11,11 +11,11 @@ aws_secret_access_key = your_secret_key
 ```
 
 ##### RUN
-
+Install the SDK and Dependencies
 ```
 npm install
 ```
 
-After installing the dependencies, you can run the node.js app using,
+Run the Application
 ```
 node aws-s3-website-configuration.js
