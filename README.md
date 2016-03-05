@@ -11,7 +11,7 @@ aws_secret_access_key = your_secret_key
 ```
 
 ##### RUN
-Make sure you have installed npm 
+
 ```
 npm install
 ```
